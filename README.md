@@ -1,3 +1,9 @@
 # My_Virtual_Lab
 
-Teszt 1
+Setup Vagrant lab
+
+    vagrant up
+    vagrant ssh control
+
+
+
